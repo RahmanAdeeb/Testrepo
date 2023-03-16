@@ -1,2 +1,0 @@
-# Display Python
-print("Python"
